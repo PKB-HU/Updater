@@ -1,6 +1,6 @@
-# UpdateChecker
+# Kirilov Updater
 
-`UpdateChecker` is a lightweight Python utility for checking whether a newer version of a GitHub-hosted project is available, and if so, downloading and extracting the latest files automatically.
+`Kirilov Updater` is a lightweight Python utility for checking whether a newer version of a GitHub-hosted project is available, and if so, downloading and extracting the latest files automatically.
 
 It compares a local `VERSION` file with a remote `VERSION` file stored in a GitHub repository branch. If a newer version exists, it downloads the branch archive as a ZIP file and extracts its contents into the current directory.
 
